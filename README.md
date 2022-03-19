@@ -1,2 +1,1 @@
-# React app - starwars api
-## watch - star-db-snowy.vercel.app
+# [starwars app](star-db-snowy.vercel.app)
